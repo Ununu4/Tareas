@@ -1,2 +1,2 @@
 # Devos-Projects
-Works in progress and Technologies 
+Current Works in Progress and Exercises for Development
