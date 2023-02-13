@@ -25,7 +25,7 @@ alert('valor invalido')}
 else
 
 
-switch(mes) {
+switch(mes); {
 
   case 1:
 alert('es invierno')
@@ -67,6 +67,8 @@ break
 }{
   alert("Otto Fernando Guzman // Carnet  23002638 ");
 }
+
+// comments
 
 
 </script>
